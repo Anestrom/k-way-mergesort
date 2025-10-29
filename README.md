@@ -1,11 +1,12 @@
 # K-WAY MERGESORT
-##Integrantes do grupo
+
+## Integrantes do grupo
 Nome e username:
--Murilo B. Ossanes - MuriloBoss
--Marjory Ane Toazza - anestrom
--Marco Antonio Felipi - marcoflp
--Marcelo Panho - marcelopanho
--Victor Amarante dos Santos - vitorpf0009
+- Murilo B. Ossanes - MuriloBoss
+- Marjory Ane Toazza - anestrom
+- Marco Antonio Felipi - marcoflp
+- Marcelo Panho - marcelopanho
+- Victor Amarante dos Santos - vitorpf0009
 
 
 ## O que faz o algoritmo?
